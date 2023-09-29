@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sensor2</string>
+    <string name="deactivate">Deactivate</string>
+    <string name="active">Activate</string>
+</resources>
